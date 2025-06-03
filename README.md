@@ -103,6 +103,8 @@ Topological meta-features prove to be the most effective individually and contri
 
 All, results, and visualizations are organized by research question in the 'Experiments.ipynb' notebook.
 
+### ----  ⚠️ The code will be made available in the repository ----
+
 This way, the template promotes:
 
 - the use of [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), [semantic versionning](https://semver.org/) and [semantic releasing](https://github.com/cycjimmy/semantic-release-action) which automates the whole package release workflow including: determining the next version number, generating the release notes, and publishing the artifacts (project tarball, docker images, etc.)
@@ -196,7 +198,6 @@ poetry run schema-instance matching --help
 ```
 
 Will give something like
-### ---- The code will be made available afterward in the repository------
 ```console
 Usage: schema-instance matching [OPTIONS]
 
